@@ -1,0 +1,13 @@
+C:\Users\chris\Documents\Chris\gitHub\OOP-Legos\Bulldozer\bin\Debug\netcoreapp3.1\Bulldozer.exe
+C:\Users\chris\Documents\Chris\gitHub\OOP-Legos\Bulldozer\bin\Debug\netcoreapp3.1\Bulldozer.deps.json
+C:\Users\chris\Documents\Chris\gitHub\OOP-Legos\Bulldozer\bin\Debug\netcoreapp3.1\Bulldozer.runtimeconfig.json
+C:\Users\chris\Documents\Chris\gitHub\OOP-Legos\Bulldozer\bin\Debug\netcoreapp3.1\Bulldozer.runtimeconfig.dev.json
+C:\Users\chris\Documents\Chris\gitHub\OOP-Legos\Bulldozer\bin\Debug\netcoreapp3.1\Bulldozer.dll
+C:\Users\chris\Documents\Chris\gitHub\OOP-Legos\Bulldozer\bin\Debug\netcoreapp3.1\Bulldozer.pdb
+C:\Users\chris\Documents\Chris\gitHub\OOP-Legos\Bulldozer\obj\Debug\netcoreapp3.1\Bulldozer.csprojAssemblyReference.cache
+C:\Users\chris\Documents\Chris\gitHub\OOP-Legos\Bulldozer\obj\Debug\netcoreapp3.1\Bulldozer.AssemblyInfoInputs.cache
+C:\Users\chris\Documents\Chris\gitHub\OOP-Legos\Bulldozer\obj\Debug\netcoreapp3.1\Bulldozer.AssemblyInfo.cs
+C:\Users\chris\Documents\Chris\gitHub\OOP-Legos\Bulldozer\obj\Debug\netcoreapp3.1\Bulldozer.csproj.CoreCompileInputs.cache
+C:\Users\chris\Documents\Chris\gitHub\OOP-Legos\Bulldozer\obj\Debug\netcoreapp3.1\Bulldozer.dll
+C:\Users\chris\Documents\Chris\gitHub\OOP-Legos\Bulldozer\obj\Debug\netcoreapp3.1\Bulldozer.pdb
+C:\Users\chris\Documents\Chris\gitHub\OOP-Legos\Bulldozer\obj\Debug\netcoreapp3.1\Bulldozer.genruntimeconfig.cache
